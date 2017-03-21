@@ -23,7 +23,7 @@
       <div class="col-md-5">
         <!-- Logo -->
         <div class="logo">
-          <h1><a href="index.html">Mateović</a></h1>
+          <h1><a href="index.html">Site name</a></h1>
         </div>
       </div>
       <div class="col-md-5">
